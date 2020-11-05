@@ -5,3 +5,6 @@ attribute hal_motor_server;
 attribute hal_touchfeature;
 attribute hal_touchfeature_client;
 attribute hal_touchfeature_server;
+hal_attribute_lineage(lineage_camera_motor)
+hal_attribute_lineage(lineage_fod)
+hal_attribute(mlipay)
