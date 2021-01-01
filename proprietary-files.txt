@@ -486,7 +486,7 @@ vendor/lib/libqmi.so
 system_ext/etc/permissions/qcrilhook.xml
 system_ext/etc/permissions/telephonyservice.xml
 system_ext/framework/qcrilhook.jar
-system_ext/framework/qti-telephony-common.jar
+system_ext/framework/qti-telephony-common.jar|dd4480f54de10114d56a22ec7e95b443d9d2e721
 -system_ext/priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk
 vendor/bin/adpl
 vendor/bin/hw/qcrild
