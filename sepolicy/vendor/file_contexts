@@ -42,3 +42,6 @@
 
 # Sockets
 /dev/socket/audio_hw_socket                                          u:object_r:audio_socket:s0
+
+# Health
+/sys/devices/platform/soc/soc:maxim_ds28e16/power_supply/batt_verify(/.*)? u:object_r:sysfs_battery_supply:s0
