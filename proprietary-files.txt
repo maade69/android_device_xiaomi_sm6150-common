@@ -376,8 +376,8 @@ vendor/lib64/libkeymasterutils.so
 vendor/lib64/libqcbor.so
 vendor/lib64/libqtikeymaster4.so
 
-# Listen
-vendor/lib/hw/sound_trigger.primary.sm6150.so
+# Listen - from sunfish-user-11-RQ2A.210305.006-7119741-release-keys
+vendor/lib/hw/sound_trigger.primary.sm6150.so|7d5edc98ecdd3063c42564dafc3ceb09f32c34bf
 
 # Media
 vendor/bin/hw/vendor.qti.media.c2@1.0-service
