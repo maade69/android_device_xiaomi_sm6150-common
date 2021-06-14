@@ -97,7 +97,6 @@ TARGET_KERNEL_APPEND_DTB := true
 TARGET_DISABLED_UBWC := true
 
 # Properties
-TARGET_ODM_PROP += $(COMMON_PATH)/odm.prop
 TARGET_SYSTEM_PROP += $(COMMON_PATH)/system.prop
 TARGET_VENDOR_PROP += $(COMMON_PATH)/vendor.prop
 
