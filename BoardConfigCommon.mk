@@ -91,6 +91,9 @@ TARGET_KERNEL_APPEND_DTB := true
 # Media
 TARGET_DISABLED_UBWC := true
 
+# Power
+TARGET_POWERHAL_MODE_EXT := $(COMMON_PATH)/power/power-mode.cpp
+
 # Properties
 TARGET_SYSTEM_PROP += $(COMMON_PATH)/system.prop
 TARGET_VENDOR_PROP += $(COMMON_PATH)/vendor.prop
